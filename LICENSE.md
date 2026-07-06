@@ -1,4 +1,4 @@
-# 
+# Inteligente Omni Flash fluxo de trabalho. Com arquitetura escalável e autonomia de agentes — otimizado para máximo desempenho e eficiência.
 
 
 
